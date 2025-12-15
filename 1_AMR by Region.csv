@@ -1,0 +1,80 @@
+Site,Country,Region,AMR (FPKM)
+ALB.17,Albania,Europe,1188.71596
+AUS.18,Australia,Oceania,719.8336897
+AUS.18a,Australia,Oceania,832.2946844
+AUT.70,Austria,Europe,574.5772456
+BGR.66,Bulgaria,Europe,640.394533
+BRA.53,Brasil,South America,1716.691407
+BRA.53a,Brasil,South America,4616.855192
+BWA.19,Botswana,Africa,2344.678594
+CAN.22,Canada,North America,1005.416744
+CAN.22a,Canada,North America,690.3326418
+CAN.22b,Canada,North America,990.6601672
+CAN.22c,Canada,North America,651.281317
+CHE.67,Switzerland,Europe,422.5254291
+CHN.64,China,Asia,1381.086904
+CIV.13,COTE DIVOIRE,Africa,2816.346526
+COL.2,Colombia,South America,789.5599601
+CZE.23,Czech Republic,Europe,936.6166793
+DEU.27,Germany,Europe,690.1292189
+DNK.71_RA,Denmark,Europe,579.1193332
+DNK.71_RD,Denmark,Europe,478.8521014
+DNK.71_RL,Denmark,Europe,641.6157376
+ECU.14,Ecuador,South America,501.0376611
+ECU.14a,Ecuador,South America,2031.895141
+ESP.75,Spain,Europe,1289.54018
+ETH.24,Ethiopia,Africa,979.4697729
+FIN.25,Finland,Europe,839.0357734
+GEO.59,Georgia,Asia,222.8441894
+GHA.4,Ghana,Africa,3560.096165
+HRV.68,Croatia,Europe,877.9384364
+HUN.61,Hungary,Europe,792.6016248
+IND.11,India,Asia,1419.528042
+IRL.69,Ireland,Europe,574.4646353
+IRN.12,Iran,Middle East,1547.616361
+ISL.28,Iceland,Europe,589.5619767
+ISR.29,Israel,Middle East,1156.284408
+ITA.30,Italy,Europe,698.2371786
+KAZ.6,Kazakhstan,Asia,1048.158328
+KEN.72,Kenya,Africa,1923.0644
+KHM.21,Cambodia,Asia,2873.892294
+LKA.40,Sri Lanka,Asia,112.8700811
+LUX.32,Luxembourg,Europe,877.6960966
+LVA.31,Latvia,Europe,809.5292471
+MDA.65,Republic of Moldova,Europe,893.7564222
+MKD.62,Republic of Macedonia,Europe,776.7522246
+MLT.63,Malta,Europe,1007.717576
+MYS.54,Malaysia,Asia,860.1355907
+NGA.50,Nigeria,Africa,2956.09656
+NLD.43,The Netherlands,Europe,400.157363
+NOR.34,Norway,Europe,348.0348864
+NPL.33,Nepal,Asia,1519.900389
+NZL.56,New Zealand,Oceania,36.29393583
+PAK.7,Pakistan,Asia,2073.104684
+PER.35,Peru,South America,2297.290891
+POL.36,Poland,Europe,1246.675113
+SEN.8,Senegal,Africa,661.6050338
+SGP.52,Singapore,Asia,1173.544411
+SRB.37,Serbia,Europe,1147.476845
+SVK.9,Slovak Republic,Europe,644.5116895
+SVN.38,Slovenia,Europe,1098.563704
+SWE.41,Sweden,Europe,432.0665788
+SWE.41a,Sweden,Europe,320.602694
+TGO.44,Togo,Africa,3206.929509
+TUR.46,Turkey,Europe,375.7344094
+TZA.15,Tanzania,Africa,2460.869046
+USA.74,USA,North America,1156.909158
+USA.74a,USA,North America,600.9286801
+USA.74b,USA,North America,700.3557085
+USA.74c,USA  ,North America,924.6040037
+USA.74d,USA,North America,924.0901322
+USA.74e,USA  ,North America,951.4240898
+USA.74f,USA  ,North America,615.5432257
+USA.74g,USA  ,North America,858.8237787
+USA.74h,USA  ,North America,761.1931353
+USA.74i,USA  ,North America,1510.774189
+VNM.48,Vietnam,Asia,398.1862668
+XK.60,Kosovo,Europe,1862.830642
+ZAF.39,South Africa,Africa,1097.875145
+ZMB.49,Zambia,Africa,1358.565373
+ZMB.49b,Zambia,Africa,1046.192139
